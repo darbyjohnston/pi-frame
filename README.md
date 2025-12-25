@@ -29,10 +29,10 @@ Attach the two halfs of the frame with the 2-56 screws and nuts. A brass rod
 can be added to the frame to improve stability.
 
 Standing frame:
-![Standing Frame]("Frame 1 Render.png")
+![Standing Frame](Frame_1_Render.png)
 
 Wall frame:
-![Wall Frame]("Frame 2 Render.png")
+![Wall Frame](Frame_2_Render.png)
 
 
 ## Raspberry Pi Setup
